@@ -1,0 +1,72 @@
+### 	MyGTKmenu config file	###
+###	  Adina Vornicu	      	###
+
+SEPARATOR
+
+submenu = internet
+	icon = null
+
+	item = firefox
+	cmd = firefox
+	icon = null
+
+	item = pidgin
+	cmd = pidgin
+	icon = null
+
+	item = skype
+	cmd = skype
+	icon = null
+
+submenu = development
+	icon = null
+
+	item = eclipse
+	cmd = eclipse
+	icon = null
+
+submenu = office
+	icon = null
+
+	item = libreoffice
+	cmd = libreoffice
+	icon = null
+
+	item = gimp
+	cmd = gimp
+	icon = null
+
+	item = inkscape
+	cmd = inkscape
+	icon = null
+
+submenu = media
+	icon = null
+
+	item = vlc
+	cmd = vlc
+	icon = null
+
+submenu = system
+	icon = null
+
+	item = thunar
+	cmd = thunar
+	icon = null
+
+	item = gedit
+	cmd = gedit
+	icon = null
+
+	item = gparted
+	cmd = gksu gparted
+	icon = null
+
+SEPARATOR
+item = reboot..
+cmd = sudo systemctl reboot
+icon = null
+
+item = shutdown..
+cmd = sudo systemctl poweroff
+icon = null
