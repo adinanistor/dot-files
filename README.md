@@ -1,4 +1,4 @@
 dot-files
 =========
 
-//linux configuration files
+linux configuration files
