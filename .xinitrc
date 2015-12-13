@@ -1,6 +1,3 @@
-### Adina-Elena Nistor ###
-#     LE: 08/04/2015     #
-
 while true; do
 	xsetroot -name "$(acpi -b | awk 'sub(/,/,"") {print $3, $4}') | $( date +"%R" )"
 	sleep 1m

@@ -1,6 +1,5 @@
-### 	MyGTKmenu config file	###
-###	 Adina-Elena Nistor   	###
-#	   LE: 08/04/2015	  #
+### MyGTKMenu config - Adina-Elena Nistor ###
+###		LE: 13/12/2015		  ###
 
 SEPARATOR
 
@@ -11,12 +10,12 @@ submenu = internet
 	cmd = firefox
 	icon = null
 
-	item = pidgin
-	cmd = pidgin
+	item = chromium
+	cmd = chromium
 	icon = null
 
-	item = skype
-	cmd = skype
+	item = deluge
+	cmd = deluge
 	icon = null
 
 submenu = development
@@ -51,12 +50,12 @@ submenu = media
 submenu = system
 	icon = null
 
-	item = thunar
-	cmd = thunar
-	icon = null
-
 	item = gedit
 	cmd = gedit
+	icon = null
+
+	item = thunar
+	cmd = thunar
 	icon = null
 
 	item = gparted

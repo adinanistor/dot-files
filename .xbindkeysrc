@@ -1,0 +1,6 @@
+### Xbindkeys config - Adina-Elena Nistor ###
+###		LE: 13/12/2015		  ###
+
+"mygtkmenu ~/.menu"
+	m:0x0 + c:70
+	F4

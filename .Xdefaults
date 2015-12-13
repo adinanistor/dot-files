@@ -1,0 +1,8 @@
+URxvt.background:	black
+URxvt.foreground:	green
+URxvt.scrollBar:	false
+URxvt*.transparent:	true
+URxvt*.shading:		50
+URxvt.perl-ext-common:	default,tabbed,matcher
+URxvt.url-launcher:	/usr/bin/firefox
+URxvt.matcher.button:	1
